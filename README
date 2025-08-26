@@ -3,7 +3,7 @@
 * Download zip: https://github.com/jerryhoff/WebGoat.NET/zipball/master
 ****************************************************************************
 
-This web application is a learning platform that attempts to teach about
+This WEB application is a learning platform that attempts to teach about
 common web security flaws. It contains generic security flaws that apply to
 most web applications. It also contains lessons that specifically pertain to
 the .NET framework. The excercises in this app are intented to teach about 
@@ -62,3 +62,4 @@ How to build and run under Windows:
      them empty.
   4. Click on 'Test Configuration', followed by 'Rebuild Database' and
      hopefully you should be good go! Enjoy your hackathon!
+
